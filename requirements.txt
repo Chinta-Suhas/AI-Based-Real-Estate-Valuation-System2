@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+streamlit>=1.22
+pandas
+numpy
+scikit-learn
+joblib
+pkl
+=======
+streamlit>=1.22
+pandas
+numpy
+scikit-learn
+joblib
+>>>>>>> 9bba4f8973eafba11c2b81ec3b9a5d8304882ed9
